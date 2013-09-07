@@ -4,8 +4,6 @@ ruby '1.9.2'
 
 gem 'rails', '3.1.0'
 
-gem 'rb-readline'
-
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
