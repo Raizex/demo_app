@@ -26,6 +26,7 @@ end
 group :production do
 	gem 'pg'
 	gem 'rails_12factor'
+	gem 'postgres'
 end
 
 gem 'jquery-rails'
